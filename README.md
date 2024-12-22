@@ -1,6 +1,6 @@
 # Tripedia
 
-A new Flutter project.
+A Flutter project to finish dicoding course Belajar Membuat Aplikasi Flutter untuk Pemula
 
 <img src="assets/images/mock up.png">
 
