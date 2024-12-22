@@ -1,6 +1,8 @@
-# tripedia
+# Tripedia
 
 A new Flutter project.
+
+<img src="assets/images/mock up.png">
 
 ## Getting Started
 
